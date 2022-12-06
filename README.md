@@ -1,2 +1,2 @@
 # ProduitMatrices
-Produit de deux matrices.
+Produit de deux matrices A et B.
